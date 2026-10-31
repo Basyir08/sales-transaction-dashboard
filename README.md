@@ -6,6 +6,7 @@ project covers data cleaning in Python, star-schema data modeling, 18 DAX
 measures, and an executive dashboard delivering insights on revenue, discount
 behaviour, regional performance, and customer segments.
 
+![Global Superstore Dashboard](sales_transactions_dasboard.png)
 ---
 
 ## Dataset Overview
